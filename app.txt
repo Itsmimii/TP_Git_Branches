@@ -1,2 +1,6 @@
 Ajout de la fonctionnalité 1.
+<<<<<<< HEAD
+Ligne modifiée par B.
+=======
 Ligne modifiée par A.
+>>>>>>> 4a7c8d7e4328347ff767073185b03860a3a87036
